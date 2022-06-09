@@ -1,0 +1,1 @@
+execute as @a[scores={dpos.death=1..}] run function death_pos:dp
