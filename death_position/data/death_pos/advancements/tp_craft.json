@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "a":{
+            "trigger": "recipe_unlocked",
+            "conditions": {
+                "recipe": "death_pos:tp_craft"
+            }
+        }
+    },
+    "rewards": {
+        "function": "death_pos:tp/craft"
+    }
+}
