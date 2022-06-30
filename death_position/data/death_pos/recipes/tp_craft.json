@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        " a ",
+        "aba",
+        " a "
+    ],
+    "key": {
+        "a":{
+            "item": "white_dye"
+        },
+        "b":{
+            "item": "ender_pearl"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book","count": 1
+    }
+}
